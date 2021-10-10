@@ -1,6 +1,5 @@
 <?php
 
-a
 namespace DAO;
 
 
